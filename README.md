@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning continiously
 - 💞️ I’m looking to collaborate on efforts
 - 📫 How to reach me (French and English)
-
+      packetqcca@gmail.com
 <!--- packetqc/packetqc --->
