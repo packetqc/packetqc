@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on efforts and employment
 - 📫 How to reach me (French and English)
       [In](https://www.linkedin.com/in/martypacket/)
+- 👀 Youtube video portfolio [Youtube](https://youtube.com/@packet-yi9sq?feature=shared)
 <!--- packetqc/packetqc --->
